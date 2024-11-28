@@ -28,4 +28,4 @@
 ###  Positive correlation between stock price and market cap.
 
 
-## Daset from Kaggle - 
+## Dataset from Kaggle 
